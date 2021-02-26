@@ -4,6 +4,8 @@ Project URL: https://sachinoo.github.io/p1.SachinKarki/.
 
 This project deals with basic microwave sysem.
 
+![mw](https://user-images.githubusercontent.com/24665608/109346569-81bb4400-7837-11eb-99bf-a5dd90d68aca.jpg)
+
 ## Introduction
 
 This is a simplified version of a microwave interfacae which takes the inputs from the touch on the screen.
