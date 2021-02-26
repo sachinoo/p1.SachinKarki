@@ -36,3 +36,9 @@ In my opinion, the current microwave that I am using sees to be fine but have so
     is the actual purpose of the button until you do trial and error. 
 2. There is EXPRESS COOK in between the numbers (2 and 5 )  which is not clear. 
 
+![hold](https://user-images.githubusercontent.com/24665608/109349703-00b27b80-783c-11eb-820b-9d2e50a155ca.png)
+
+3. This HOLD with keys looks confusing as I was trying on the microwave, I was not able to figure it out.
+
+
+
