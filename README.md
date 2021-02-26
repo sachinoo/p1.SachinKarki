@@ -10,7 +10,7 @@ This project deals with basic microwave sysem.
 
 This is a simplified version of a microwave interfacae which takes the inputs from the touch on the screen.
 ## Current microwave in USE
-
+![ezgif-7-f85ba6d29f18](https://user-images.githubusercontent.com/24665608/109351257-9949fb00-783e-11eb-8577-7e9feeed5420.gif)
 ## Issues with the current microwave
 ![IMG_3031](https://user-images.githubusercontent.com/24665608/109348303-f4c5ba00-7839-11eb-93a0-03d55541d980.jpeg)
 
