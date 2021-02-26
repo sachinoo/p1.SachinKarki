@@ -31,6 +31,12 @@ In my opinion, the current microwave that I am using sees to be fine but have so
 
 3. This HOLD with keys looks confusing as I was trying on the microwave, I was not able to figure it out.
 4. The door handles are mechanically so that you will have to apply force to open it.
+
+
+## Common uses of the microwave
+    - Mostly used for fast heating. For example, for preaparing tea, heating the food.
+    - Defrosting the refrigerated items such as meat,vegetables.
+## Advantages of the Current Microwave
 -----------------------------------------------------------------------------------------------------------------------------
 # New Designed Interface
 ![mw](https://user-images.githubusercontent.com/24665608/109346569-81bb4400-7837-11eb-99bf-a5dd90d68aca.jpg)
