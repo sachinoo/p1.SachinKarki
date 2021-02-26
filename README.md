@@ -16,4 +16,6 @@ This is a simplified version of a microwave interfacae which takes the inputs fr
 3. Open/ Close Door
     - This button is used for the door functionality of the door. Upon pressing the button, the door will 
       automatically open/ close depending in the state of the door.
-4.
+4. Start / Stop Button
+    - Start / Stop buttons have the same functionality as the name. Start will start the timer after setting the time and 
+      Stop will stop the timer.
