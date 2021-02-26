@@ -86,13 +86,14 @@ In my opinion, the current microwave that I am using sees to be fine but have so
 
   NOTE: This sketch was made using draw.io
   
-    This new skeletion design shows that some of the issues could be fixed using the new design. We can see that there is
-    On/ Off button which could be handy to save the energy when it is not in use. Once, you turn on , it will ask the user
-    to set the timer and hit start. This will fix the issue that was mentioned above. Once you set the timer, you will have
-    press start other wise it wont trigger the microwave. This could be handy when you mistakely set the wrong timer. 
+    This new skeletion design shows that some of the issues could be fixed using the new design.
+    We can see that there is On/ Off button which could be handy to save the energy when it is not 
+    in use. Once, you turn on , it will ask the user to set the timer and hit start. This will fix 
+    the issue that was mentioned above. Once you set the timer, you will have press start other wise
+    it wont trigger the microwave. This could be handy when you mistakely set the wrong timer. 
     
-    Another that that was improved in this prototype  was that voice command was added. This could let the user set the
-    timer using the reccognized voice commands. 
+    Another that that was improved in this prototype  was that voice command was added. This could let 
+    the user set the timer using the reccognized voice commands. 
     
     Express cook was aslo organized so that it is easier for the user to select the pre- defined timers.
     
