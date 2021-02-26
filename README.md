@@ -25,10 +25,10 @@ touch on the screen.
 In my opinion, the current microwave that I am using sees to be fine but have some minor issues.
 
     - The button lebels are not clear. For eg:  the Time Deforst, Weight Defrost does not indicate what
-        is the actual purpose of the button until you do trial and error. 
+      is the actual purpose of the button until you do trial and error. 
     - There is EXPRESS COOK in between the numbers (2 and 5 )  which is not clear.
     - This HOLD with keys looks confusing as I was trying on the microwave, I was not able to figure it out.
-    -The door handles are mechanically so that you will have to apply force to open it.
+    - he door handles are mechanically so that you will have to apply force to open it.
 
 
 ## Common uses of the microwave
