@@ -33,5 +33,7 @@ This is a simplified version of a microwave interfacae which takes the inputs fr
 
 In my opinion, the current microwave that I am using sees to be fine but have some minor issues.
 1. The button lebels are not clear. For eg:  the Time Deforst, Weight Defrost does not indicate what is the 
+2. There is EXPRESS COOK in between the numbers (2 and 5 )  which is not clear. 
+3. 
    actual purpose of the button until you do trial and error.
 2. 
