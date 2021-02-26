@@ -39,6 +39,6 @@ In my opinion, the current microwave that I am using sees to be fine but have so
 ![hold](https://user-images.githubusercontent.com/24665608/109349703-00b27b80-783c-11eb-820b-9d2e50a155ca.png)
 
 3. This HOLD with keys looks confusing as I was trying on the microwave, I was not able to figure it out.
-
+4. The door handles are mechanically so that you will have to apply force to open it.
 
 
