@@ -9,6 +9,7 @@ This project deals with basic microwave sysem.
 This is a simplified version of a microwave interfacae which takes the inputs from the touch on the screen.
 
 ## Interface Components
-1. Power Button 
+1. ** Power Button **
   - This sets the state of the microwave to ON or OFF state. This would be the first step to operate the microwave.
-2. 
+2. Number Pad / Add 30 Seconds button
+    - 
