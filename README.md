@@ -80,6 +80,8 @@ In my opinion, the current microwave that I am using sees to be fine but have so
     - Displays the Timer, state of the microwave and the messsage. 
 
 ## Suggested Desing in sketch
-
+ This is the new design that might help to reduec the issues with the current design.
+ 
 ![PROPOSED DESIGN](https://user-images.githubusercontent.com/24665608/109361600-db7b3880-784e-11eb-92e6-68d3be452093.png)
 
+  NOTE: This sketch was made using draw.io
