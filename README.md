@@ -5,7 +5,7 @@ Project URL: https://sachinoo.github.io/p1.SachinKarki/.
 
 
 ## Introducction
-    - We have various tools we use it in day to day life. Machines / tools are used to simplify our works but 
+     We have various tools we use it in day to day life. Machines / tools are used to simplify our works but 
       its not alwys perfect. They have some kind of flaws which will afftect the effectivness of the microwave.
       Microwaves comes in different sizes, functionality and different cost as well depending upon the features
       that come with it.
