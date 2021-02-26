@@ -10,6 +10,19 @@ This project deals with basic microwave sysem.
 
 This is a simplified version of a microwave interfacae which takes the inputs from the touch on the screen.
 
+## Issues with the current microwave
+![IMG_3031](https://user-images.githubusercontent.com/24665608/109348303-f4c5ba00-7839-11eb-93a0-03d55541d980.jpeg)
+
+In my opinion, the current microwave that I am using sees to be fine but have some minor issues.
+1. The button lebels are not clear. For eg:  the Time Deforst, Weight Defrost does not indicate what
+    is the actual purpose of the button until you do trial and error. 
+2. There is EXPRESS COOK in between the numbers (2 and 5 )  which is not clear. 
+
+![hold](https://user-images.githubusercontent.com/24665608/109349703-00b27b80-783c-11eb-820b-9d2e50a155ca.png)
+
+3. This HOLD with keys looks confusing as I was trying on the microwave, I was not able to figure it out.
+4. The door handles are mechanically so that you will have to apply force to open it.
+
 ## Interface Components
 1.  Power Button 
     - This sets the state of the microwave to ON or OFF state. This would be the first step to operate the microwave.
@@ -28,17 +41,5 @@ This is a simplified version of a microwave interfacae which takes the inputs fr
 7. LCD Screen
     - Displays the Timer, state of the microwave and the messsage. 
 
-## Issues with the current microwave
-![IMG_3031](https://user-images.githubusercontent.com/24665608/109348303-f4c5ba00-7839-11eb-93a0-03d55541d980.jpeg)
-
-In my opinion, the current microwave that I am using sees to be fine but have some minor issues.
-1. The button lebels are not clear. For eg:  the Time Deforst, Weight Defrost does not indicate what
-    is the actual purpose of the button until you do trial and error. 
-2. There is EXPRESS COOK in between the numbers (2 and 5 )  which is not clear. 
-
-![hold](https://user-images.githubusercontent.com/24665608/109349703-00b27b80-783c-11eb-820b-9d2e50a155ca.png)
-
-3. This HOLD with keys looks confusing as I was trying on the microwave, I was not able to figure it out.
-4. The door handles are mechanically so that you will have to apply force to open it.
 
 
