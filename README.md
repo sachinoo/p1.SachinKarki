@@ -16,7 +16,7 @@ This new design eliminates the mechanical keys and  implements the touch functio
 touch on the screen.
 
 ## Current microwave in USE
-    This demonstrates the used of microwave setting 30 seconds timer.
+    This demonstrates the use of microwave setting 30 seconds timer.
     
 ![ezgif-7-f85ba6d29f18](https://user-images.githubusercontent.com/24665608/109351257-9949fb00-783e-11eb-8577-7e9feeed5420.gif)
 ## Issues with the current microwave
@@ -34,7 +34,7 @@ In my opinion, the current microwave that I am using sees to be fine but have so
 -----------------------------------------------------------------------------------------------------------------------------
 # New Designed Interface
 ![mw](https://user-images.githubusercontent.com/24665608/109346569-81bb4400-7837-11eb-99bf-a5dd90d68aca.jpg)
-
+-----------------------------------------------------------------------------------------------------------------------------
 
 ## Interface Components
 1.  Power Button 
