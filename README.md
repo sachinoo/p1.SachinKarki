@@ -29,6 +29,6 @@ This is a simplified version of a microwave interfacae which takes the inputs fr
     - Displays the Timer, state of the microwave and the messsage. 
 
 ## Issues with the current microwave
-![IMG_3031](https://user-images.githubusercontent.com/24665608/109348026-9ef11200-7839-11eb-9840-b8ca93927d01.jpeg)
+![IMG_3031](https://user-images.githubusercontent.com/24665608/109348303-f4c5ba00-7839-11eb-93a0-03d55541d980.jpeg)
 
 
