@@ -8,23 +8,7 @@ This project deals with basic microwave sysem.
 
 This is a simplified version of a microwave interfacae which takes the inputs from the touch on the screen.
 
-## Instructions To Use
-
-### Create a new project
-
-- Open **VSCode**
-- Press `Ctrl + Shift ⇧ + P` in Windows/Linux or `Command ⌘ + Shift ⇧ + P` in Mac to open VSCode's extension launcher
-- Type/Select `Web Template Studio: Launch` and press `Enter` to launch the extension
-
-### Deploy the generated project
-
-- Open **VSCode**
-- Open the generated project
-- Press `Ctrl + Shift ⇧ + P` in Windows/Linux or `Command ⌘ + Shift ⇧ + P` in Mac to open VSCode's extension launcher
-- Type/Select `Web Template Studio: Deploy App` and press `Enter` to begin the deployment
-
-## Example Scenario
-
-I need a full-stack web app that is deployed on Azure App Service Web App.
-
-<img alt="App with Azure Services" src="./docs/resources/readme-app-azure-screenshot.png" width="95%" />
+## Interface Components
+1. Power Button 
+  - This sets the state of the microwave to ON or OFF state. This would be the first step to operate the microwave.
+2. 
