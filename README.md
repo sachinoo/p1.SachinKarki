@@ -81,4 +81,5 @@ In my opinion, the current microwave that I am using sees to be fine but have so
 
 ## Suggested Desing in sketch
 
+![PROPOSED DESIGN](https://user-images.githubusercontent.com/24665608/109361600-db7b3880-784e-11eb-92e6-68d3be452093.png)
 
