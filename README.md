@@ -100,4 +100,4 @@ In my opinion, the current microwave that I am using sees to be fine but have so
     The door would open with the door button or with the voice command.
     
     
-    ***********************************************************************************************************************
+  ***********************************************************************************************************************
