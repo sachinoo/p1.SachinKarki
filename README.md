@@ -34,11 +34,13 @@ In my opinion, the current microwave that I am using sees to be fine but have so
 ## Common uses of the microwave
     - Mostly used for fast heating. For example, for preaparing tea, heating the food.
     - Defrosting the refrigerated items such as meat,vegetables.
+    - 
 ## Advantages of the Current Microwave
     - +30 SEC button is always handy. I tend to press that buttton for setting time even if 
       I have to set it to 2 min.
     - It give me beeping sound once the heating has been done. 
     - The macro buttons (such as PIZZA, POPCORN) are also handy sometime.
+    - 
 ## User Interaction
     The user has simple task to consider while using the microwave. In the current setting the user will
     have to open the door, set the timer and the heating will begin.
@@ -50,7 +52,9 @@ In my opinion, the current microwave that I am using sees to be fine but have so
     The feedback to the user is provided by microwave usign a sound. Once the food is heated,  we can hear some
     beeping sound. This is convinient as we do have to sit by the microwave and wait especially when the 
     timer is for longer time.
-    
+   
+    Following are some of the mistakes that an user might make while using it:
+        - Once you press the number in the keypad, the timer starts
     
 -----------------------------------------------------------------------------------------------------------------------------
 # New Designed Interface
