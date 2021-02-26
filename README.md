@@ -5,8 +5,16 @@ Project URL: https://sachinoo.github.io/p1.SachinKarki/.
 
 
 ## Introduction  <span style = "colro:red">
+We have various tools we use it in day to day life. Machines / tools are used to simplify our works but 
+its not alwys perfect. They have some kind of flaws which will afftect the effectivness of the microwave.
+Microwaves comes in different sizes, functionality and different cost as well depending upon the features
+that come with it.
+    
+This report focues on the microwave that we have in our apartment or homes. Demonstrates some issues with
+it and also demonstrates the new effective design . The new design was build usig the processing platform.
+This new design eliminates the mechanical keys and  implements the touch functionality whcih inputs from the
+touch on the screen.
 
-This is a simplified version of a microwave interfacae which takes the inputs from the touch on the screen.
 ## Current microwave in USE
     This demonstrates the used of microwave setting 30 seconds timer.
     
