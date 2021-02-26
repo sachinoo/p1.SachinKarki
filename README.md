@@ -10,7 +10,7 @@ This is a simplified version of a microwave interfacae which takes the inputs fr
 
 ## Interface Components
 1.  Power Button 
-  - This sets the state of the microwave to ON or OFF state. This would be the first step to operate the microwave.
+    - This sets the state of the microwave to ON or OFF state. This would be the first step to operate the microwave.
 2. Number Pad / Add 30 Seconds button
     - These buttons are used to set the timer for heating the food.
 3. Open/ Close Door
