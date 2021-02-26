@@ -6,6 +6,8 @@ This project deals with basic microwave sysem.
 
 ### Introduction
 
+This is a simplified version of a microwave interfacae which takes the inputs from the touch on the screen.
+
 ## Instructions To Use
 
 ### Create a new project
