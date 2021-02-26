@@ -96,4 +96,6 @@ In my opinion, the current microwave that I am using sees to be fine but have so
     
     Express cook was aslo organized so that it is easier for the user to select the pre- defined timers.
     
+    The door would open with the door button or with the voice command.
+    
     
