@@ -103,3 +103,6 @@ In my opinion, the current microwave that I am using sees to be fine but have so
   ***********************************************************************************************************************
  ## New Design Strucutre
  
+![mw](https://user-images.githubusercontent.com/24665608/109346569-81bb4400-7837-11eb-99bf-a5dd90d68aca.jpg)
+
+        This designed was build using the processing platform with the libraries availabe in the processing. 
