@@ -2,9 +2,7 @@
 
 Project URL: https://sachinoo.github.io/p1.SachinKarki/.
 
-This project deals with basic microwave sysem.
 
-![mw](https://user-images.githubusercontent.com/24665608/109346569-81bb4400-7837-11eb-99bf-a5dd90d68aca.jpg)
 
 ## Introduction  <span style = "colro:red">
 
@@ -27,6 +25,7 @@ In my opinion, the current microwave that I am using sees to be fine but have so
 4. The door handles are mechanically so that you will have to apply force to open it.
 -----------------------------------------------------------------------------------------------------------------------------
 # New Designed Interface
+![mw](https://user-images.githubusercontent.com/24665608/109346569-81bb4400-7837-11eb-99bf-a5dd90d68aca.jpg)
 
 
 ## Interface Components
