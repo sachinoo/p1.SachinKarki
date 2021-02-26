@@ -39,8 +39,19 @@ In my opinion, the current microwave that I am using sees to be fine but have so
       I have to set it to 2 min.
     - It give me beeping sound once the heating has been done. 
     - The macro buttons (such as PIZZA, POPCORN) are also handy sometime.
-
-
+## User Interaction
+    The user has simple task to consider while using the microwave. In the current setting the user will
+    have to open the door, set the timer and the heating will begin.
+    
+    If we have to look at the function that is in the microwave, there are some simple function while
+    some function requires trial and error as the labels are not clear. Some of the problems was 
+    discussed in the current issues section of this paage.
+       
+    The feedback to the user is provided by microwave usign a sound. Once the food is heated,  we can hear some
+    beeping sound. This is convinient as we do have to sit by the microwave and wait especially when the 
+    timer is for longer time.
+    
+    
 -----------------------------------------------------------------------------------------------------------------------------
 # New Designed Interface
 ![mw](https://user-images.githubusercontent.com/24665608/109346569-81bb4400-7837-11eb-99bf-a5dd90d68aca.jpg)
