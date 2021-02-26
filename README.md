@@ -79,5 +79,6 @@ In my opinion, the current microwave that I am using sees to be fine but have so
 7. LCD Screen
     - Displays the Timer, state of the microwave and the messsage. 
 
+## Suggested Desing in sketch
 
 
