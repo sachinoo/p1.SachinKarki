@@ -19,3 +19,9 @@ This is a simplified version of a microwave interfacae which takes the inputs fr
 4. Start / Stop Button
     - Start / Stop buttons have the same functionality as the name. Start will start the timer after setting the time and 
       Stop will stop the timer.
+5. Express Cook
+    - This helps you to select the opetions with pre defined times for each express button. 
+6. Voice Button
+    - This button is just a proposed button which can take voice commands. 
+7. LCD Screen
+    - Displays the Timer, state of the microwave and the messsage. 
