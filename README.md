@@ -16,3 +16,4 @@ This is a simplified version of a microwave interfacae which takes the inputs fr
 3. Open/ Close Door
     - This button is used for the door functionality of the door. Upon pressing the button, the door will 
       automatically open/ close depending in the state of the door.
+4.
