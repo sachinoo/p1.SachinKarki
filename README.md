@@ -27,3 +27,7 @@ This is a simplified version of a microwave interfacae which takes the inputs fr
     - This button is just a proposed button which can take voice commands. 
 7. LCD Screen
     - Displays the Timer, state of the microwave and the messsage. 
+
+## Issues with the current microwave
+
+
