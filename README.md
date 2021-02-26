@@ -35,6 +35,9 @@ In my opinion, the current microwave that I am using sees to be fine but have so
     - Mostly used for fast heating. For example, for preaparing tea, heating the food.
     - Defrosting the refrigerated items such as meat,vegetables.
 ## Advantages of the Current Microwave
+    - +30 SEC button is always handy. I tend to press that buttton for setting time even if I have to set it to 2 min.
+    - It give me beeping sound once the heating has been done. 
+    - The macro buttons (such as PIZZA, POPCORN) are also handy sometime.
 -----------------------------------------------------------------------------------------------------------------------------
 # New Designed Interface
 ![mw](https://user-images.githubusercontent.com/24665608/109346569-81bb4400-7837-11eb-99bf-a5dd90d68aca.jpg)
