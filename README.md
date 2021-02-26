@@ -102,8 +102,8 @@ In my opinion, the current microwave that I am using sees to be fine but have so
     
   ***********************************************************************************************************************
  ## New Design Strucutre
- 
-![mw](https://user-images.githubusercontent.com/24665608/109346569-81bb4400-7837-11eb-99bf-a5dd90d68aca.jpg)
+ ![PROPOSED DESIGN](https://user-images.githubusercontent.com/24665608/109361600-db7b3880-784e-11eb-92e6-68d3be452093.png)
+
 
         This designed was build using the processing platform with the libraries availabe in the processing. 
         The touch screen designed in this part is of size 320px X 885 px. 
@@ -111,4 +111,7 @@ In my opinion, the current microwave that I am using sees to be fine but have so
 ### Libraries used 
     - ControlP5
     - Minim
+
+### Desing & Implimentation
+![mw](https://user-images.githubusercontent.com/24665608/109346569-81bb4400-7837-11eb-99bf-a5dd90d68aca.jpg)
     
