@@ -32,3 +32,6 @@ This is a simplified version of a microwave interfacae which takes the inputs fr
 ![IMG_3031](https://user-images.githubusercontent.com/24665608/109348303-f4c5ba00-7839-11eb-93a0-03d55541d980.jpeg)
 
 In my opinion, the current microwave that I am using sees to be fine but have some minor issues.
+1. The button lebels are not clear. For eg:  the Time Deforst, Weight Defrost does not indicate what is the 
+   actual purpose of the button until you do trial and error.
+2. 
