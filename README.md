@@ -119,7 +119,10 @@ In my opinion, the current microwave that I am using sees to be fine but have so
 
 ![flow chart](https://user-images.githubusercontent.com/24665608/109364313-1c298080-7854-11eb-92c2-ef59b7881144.png)
 
-
+### Extra Added Feature
+    This design is done with voice command feature which can take voice commands which might help the people with disabilities. 
+    
+    **Note: This is just a suggested feature.**
     
 ### Build Information
    This project was build with 
