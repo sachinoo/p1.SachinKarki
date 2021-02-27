@@ -58,7 +58,7 @@ In my opinion, the current microwave that I am using sees to be fine but have so
     
 -----------------------------------------------------------------------------------------------------------------------------
 # New Designed Interface
-![mw](https://user-images.githubusercontent.com/24665608/109346569-81bb4400-7837-11eb-99bf-a5dd90d68aca.jpg)
+![mw](https://user-images.githubusercontent.com/24665608/109368093-8eeb2980-785d-11eb-9e2b-d02ed8af3bb3.jpg)
 -----------------------------------------------------------------------------------------------------------------------------
 
 ## Interface Components
