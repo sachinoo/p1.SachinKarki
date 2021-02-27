@@ -113,8 +113,7 @@ In my opinion, the current microwave that I am using sees to be fine but have so
     - Minim
 
 ### Desing & Implimentation
-![mw](https://user-images.githubusercontent.com/24665608/109346569-81bb4400-7837-11eb-99bf-a5dd90d68aca.jpg)
-
+![mw](https://user-images.githubusercontent.com/24665608/109368119-a1fdf980-785d-11eb-8f16-9ae32e28230b.jpg)
 
 ### Work flow for using the microwave 
 
